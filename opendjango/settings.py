@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-czxdr^t4x*wg(vuc81-b&1xcpr^-f*o^s97*7&jpw9&jtgoj(-'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['opencv-django.herokuapp.com', '127.0.0.1']
 
